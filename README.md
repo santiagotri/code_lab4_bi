@@ -61,4 +61,4 @@ Para la segunda ruta el body debe tener los mismos atributos pero tipo list y a√
 En cuanto los resultados ambos constan de un JSON en el que para la ruta */predict* se llama "resultado" y para la ruta */evaluar* se llama "R^2".
 
 ## Bono
-El API se encuentra desplegado en el siguiente link **ctaserver.home.kg:50000**
+El API se encuentra desplegado en el siguiente link **http://ctaserver.home.kg:50000**
